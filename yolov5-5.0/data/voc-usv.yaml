@@ -1,0 +1,6 @@
+train: D:/2025-team/yolov5-5.0/image/train/images
+val: D:/2025-team/yolov5-5.0/image/valid/images
+test: D:/2025-team/yolov5-5.0/image/test/images
+
+nc: 14
+names: ['animal', 'ball', 'boat', 'bridge', 'buoy', 'grass', 'harbor', 'mast', 'person', 'platform', 'rock', 'rubbish', 'ship', 'tree']

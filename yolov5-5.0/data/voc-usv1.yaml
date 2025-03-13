@@ -1,0 +1,6 @@
+train: D:/2025-team/yolov5-5.0/image1/train/images
+val: D:/2025-team/yolov5-5.0/image1/valid/images
+
+
+nc: 4
+names: ['boat', 'buoy', 'rubbish', 'ship']
